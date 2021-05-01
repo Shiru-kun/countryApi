@@ -1,4 +1,4 @@
-package com.cthshiru.mz.countries;
+package com.cthshiru.mz.countries.beans;
 
 public class CountryBean {
 

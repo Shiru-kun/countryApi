@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cthshiru.mz.countries.CountryBean;
+import com.cthshiru.mz.countries.beans.CountryBean;
 import com.cthshiru.mz.countries.model.Country;
 import com.cthshiru.mz.countries.services.CountryServices;
 
